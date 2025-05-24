@@ -28,13 +28,13 @@ Curso Preparing for Your Professional Cloud Architect Journey: Este curso ayuda 
 
 **Contenido**
 
-1.Introducción a la certificación Professional Cloud Architect
-2.Diseña y planifica una arquitectura de solución en la nube
-3.Administra y aprovisiona una infraestructura de soluciones
-4.Cómo diseñar contenido para la seguridad y el cumplimiento
-5.Analiza y optimiza procesos técnicos y comerciales
-6.Administra la implementación y garantiza la confiabilidad de la solución y las operaciones
-7.Preparación del caso de éxito y tus próximos pasos
+1.Introducción a la certificación Professional Cloud Architect<br>
+2.Diseña y planifica una arquitectura de solución en la nube<br>
+3.Administra y aprovisiona una infraestructura de soluciones<br>
+4.Cómo diseñar contenido para la seguridad y el cumplimiento<br>
+5.Analiza y optimiza procesos técnicos y comerciales<br>
+6.Administra la implementación y garantiza la confiabilidad de la solución y las operaciones<br>
+7.Preparación del caso de éxito y tus próximos pasos<br>
 
 ---
 
