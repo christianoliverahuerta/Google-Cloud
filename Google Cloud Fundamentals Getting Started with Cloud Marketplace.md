@@ -38,11 +38,11 @@ In this lab, we will launch a solution using Cloud Marketplace.
 
 ## Task 1: Sign in to the Google Cloud Platform (GCP) Console
 
-Qwiklabs Ressource 
-############################################################
-Region : us-central1
-Zone : us-central1-a
-############################################################
+Qwiklabs Ressource<br> 
+############################################################<br> 
+Region : us-central1<br> 
+Zone : us-central1-a<br> 
+############################################################<br> 
 
 
 ## Task 2: Use Cloud Marketplace to deploy a LAMP stack
