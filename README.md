@@ -8,7 +8,7 @@ Google Cloud Certification Journey | Professional Cloud Architect
 **Dificultad**: Introductorio<br>
 **Precio**: No cost
 
-Curso de nivel introductorio, darás tus primeros pasos con Google Cloud adquiriendo experiencia práctica en la consola de Cloud, una IU integrada en el navegador que permite acceder a los servicios de Google Cloud y administrarlos. Identificarás características clave de Google Cloud y conocerás los pormenores del entorno del lab por ejemplo: Acceder a la consola de Cloud con credenciales específicas para explorar la plataforma de lab e identificar las características clave de un entorno de lab, ver varios proyectos de Google Cloud e identificar conceptos erróneos comunes en relación con estos, usar el menú de navegación de la consola de Google Cloud para identificar los tipos de servicios de Google Cloud, administrar los roles básicos y usar el servicio de Cloud IAM para inspeccionar acciones disponibles para usuarios específicos y explorar la biblioteca de APIs y examinar sus funciones principales
+Curso de nivel introductorio, darás tus primeros pasos con Google Cloud adquiriendo experiencia práctica en la consola de Cloud, una IU integrada en el navegador que permite acceder a los servicios de Google Cloud y administrarlos. Identificarás características clave de Google Cloud y conocerás los pormenores del entorno del lab por ejemplo: Acceder a la consola de Cloud con credenciales específicas para explorar la plataforma de lab e identificar las características clave de un entorno de lab, ver varios proyectos de Google Cloud e identificar conceptos erróneos comunes en relación con estos, usar el menú de navegación de la consola de Google Cloud para identificar los tipos de servicios de Google Cloud, administrar los roles básicos y usar el servicio de Cloud IAM para inspeccionar acciones disponibles para usuarios específicos y explorar la biblioteca de APIs y examinar sus funciones principales.
 
 **Lab**
 
@@ -28,13 +28,13 @@ Curso Preparing for Your Professional Cloud Architect Journey: Este curso ayuda 
 
 **Contenido**
 
-1.Introducción a la certificación Professional Cloud Architect<br>
-2.Diseña y planifica una arquitectura de solución en la nube<br>
-3.Administra y aprovisiona una infraestructura de soluciones<br>
-4.Cómo diseñar contenido para la seguridad y el cumplimiento<br>
-5.Analiza y optimiza procesos técnicos y comerciales<br>
-6.Administra la implementación y garantiza la confiabilidad de la solución y las operaciones<br>
-7.Preparación del caso de éxito y tus próximos pasos<br>
+1. Introducción a la certificación Professional Cloud Architect.<br>
+2. Diseña y planifica una arquitectura de solución en la nube.<br>
+3. Administra y aprovisiona una infraestructura de soluciones.<br>
+4. Cómo diseñar contenido para la seguridad y el cumplimiento.<br>
+5. Analiza y optimiza procesos técnicos y comerciales.<br>
+6. Administra la implementación y garantiza la confiabilidad de la solución y las operaciones.<br>
+7. Preparación del caso de éxito y tus próximos pasos.<br>
 
 ---
 
