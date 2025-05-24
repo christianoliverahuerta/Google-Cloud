@@ -1,3 +1,22 @@
+# Challenge Lab
+
+
+### [GSP101]
+
+![](https://cdn.qwiklabs.com/GMOHykaqmlTHiqEeQXTySaMXYPHeIvaqa2qHEzw6Occ%3D)
+
+---
+
+Time: 1 hour 15 minutes<br>
+Difficulty: Introductory<br>
+Price: 5 Credits
+
+Quest: [Google Cloud Fundamentals: Core Infrastructure]<br>
+
+Last updated:  --
+
+---
+
 # Overview
 
 In this lab, you use Cloud Marketplace to quickly and easily deploy a LAMP stack on a Compute Engine instance. 
