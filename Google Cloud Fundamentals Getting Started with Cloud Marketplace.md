@@ -90,7 +90,7 @@ In a new window, a secure login shell session on your virtual machine appears.
 
 7_Open a new browser tab.
 8_Type the following URL, and replace SITE_ADDRESS with the URL in the Site address field in the right pane of the lampstack page. 
-SITE_ADDRESS = http://34.123.35.35/
+SITE_ADDRESS 
 > http://SITE_ADDRESS/phpinfo.php
 
 ![phpinfo.php]
