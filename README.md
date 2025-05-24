@@ -39,6 +39,29 @@ Curso Preparing for Your Professional Cloud Architect Journey: Este curso ayuda 
 ---
 
 
+**03. Google Cloud Fundamentals: Core Infrastructure**
+---
+
+**Tiempo**: 5 Horas<br>
+**Dificultad**: Introductorio<br>
+**Precio**: 
+
+Curso Google Cloud Fundamentals: Core Infrastructure: En este curso se presentan y comparan muchos de los servicios de procesamiento y almacenamiento de Google Cloud, junto con importantes recursos y herramientas de administración de políticas. Este curso ayuda a crear un plan de estudios para el examen de certificación de PCA (Professional Cloud Architect). Los alumnos conocerán la amplitud y el alcance de los dominios que se incluyen en el examen. Además, evaluarán su nivel de preparación para el examen y crearán un plan de estudio personal.
+
+**Contenido**
+
+1. Course Introduction.<br>
+2. Introducing Google Cloud.<br>
+3. Resources and Access in the Cloud.<br>
+4. Resources and Access in the Cloud.<br>
+5. Storage in the Cloud.<br>
+6. Containers in the Cloud.<br>
+7. Applications in the Cloud.<br>
+8. Prompt Engineering.<br>
+
+---
+
+
 **18. Cloud Architecture: Design, Implement, and Manage**
 ---
 
