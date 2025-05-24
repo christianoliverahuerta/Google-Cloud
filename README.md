@@ -16,6 +16,23 @@ GSP282:
 
 ---
 
+
+**02. Preparing for Your Professional Cloud Architect Journey**
+---
+
+**Tiempo**: 8 Horas<br>
+**Dificultad**: Avanzado<br>
+**Precio**: 
+
+Curso Preparing for Your Professional Cloud Architect Journey:
+
+**Lab**
+
+GSP282: 
+
+---
+
+
 **18. Cloud Architecture: Design, Implement, and Manage**
 ---
 
