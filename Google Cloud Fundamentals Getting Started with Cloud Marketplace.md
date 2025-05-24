@@ -24,10 +24,10 @@ The Bitnami LAMP Stack provides a complete web development environment for Linux
 
 **Component	Role**
 
-L Linux	Operating system
-A Apache HTTP Server	Web server
-M MySQL	Relational database
-P PHP	Web application framework
+L Linux	Operating system<br> 
+A Apache HTTP Server	Web server<br> 
+M MySQL	Relational database<br> 
+P PHP	Web application framework<br> 
   phpMyAdmin	PHP administration tool
 
 
