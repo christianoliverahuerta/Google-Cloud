@@ -24,11 +24,17 @@ GSP282:
 **Dificultad**: Avanzado<br>
 **Precio**: 
 
-Curso Preparing for Your Professional Cloud Architect Journey:
+Curso Preparing for Your Professional Cloud Architect Journey: Este curso ayuda a crear un plan de estudios para el examen de certificación de PCA (Professional Cloud Architect). Los alumnos conocerán la amplitud y el alcance de los dominios que se incluyen en el examen. Además, evaluarán su nivel de preparación para el examen y crearán un plan de estudio personal.
 
-**Lab**
+**Contenido**
 
-GSP282: 
+1.Introducción a la certificación Professional Cloud Architect
+2.Diseña y planifica una arquitectura de solución en la nube
+3.Administra y aprovisiona una infraestructura de soluciones
+4.Cómo diseñar contenido para la seguridad y el cumplimiento
+5.Analiza y optimiza procesos técnicos y comerciales
+6.Administra la implementación y garantiza la confiabilidad de la solución y las operaciones
+7.Preparación del caso de éxito y tus próximos pasos
 
 ---
 
