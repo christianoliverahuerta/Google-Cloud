@@ -40,9 +40,6 @@ In this lab, we will launch a solution using Cloud Marketplace.
 
 Qwiklabs Ressource 
 ############################################################
-Username : student-03-01a683bd5530@qwiklabs.net
-Password : PQ6RfGKg8t
-GCP Project ID : qwiklabs-gcp-03-59b44798d503
 Region : us-central1
 Zone : us-central1-a
 ############################################################
