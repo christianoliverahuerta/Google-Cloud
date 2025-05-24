@@ -7,7 +7,7 @@
 
 ---
 
-Time: 1 hour 15 minutes<br>
+Time: 25 minutes<br>
 Difficulty: Introductory<br>
 Price: 5 Credits
 
