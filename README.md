@@ -8,7 +8,7 @@ Google Cloud Certification Journey | Professional Cloud Architect
 **Dificultad**: Introductorio<br>
 **Precio**: No cost
 
-Curso 
+Curso de nivel introductorio, darás tus primeros pasos con Google Cloud adquiriendo experiencia práctica en la consola de Cloud, una IU integrada en el navegador que permite acceder a los servicios de Google Cloud y administrarlos. Identificarás características clave de Google Cloud y, además, conocerás los pormenores del entorno del lab por ejemplo: Acceder a la consola de Cloud con credenciales específicas para explorar la plataforma de lab y, además, identificar las características clave de un entorno de lab, Ver varios proyectos de Google Cloud e identificar conceptos erróneos comunes en relación con estos, Usar el menú de navegación de la consola de Google Cloud para identificar los tipos de servicios de Google Cloud, Administrar los roles básicos y usar el servicio de Cloud IAM para inspeccionar acciones disponibles para usuarios específicos, Explorar la biblioteca de APIs y examinar sus funciones principales
 
 **Lab**
 
