@@ -1,6 +1,20 @@
 # Google-Cloud
 Google Cloud Certification Journey | Professional Cloud Architect
 
+**01. A Tour of Google Cloud Hands-on Labs**
+---
+
+**Tiempo**: 45 minutos<br>
+**Dificultad**: Introductorio<br>
+**Precio**: No cost
+
+Curso 
+
+**Lab**
+
+GSP282: 
+
+---
 
 **18. Cloud Architecture: Design, Implement, and Manage**
 ---
