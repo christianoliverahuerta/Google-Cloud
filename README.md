@@ -127,6 +127,35 @@ Supervisión de recursos.<br>
 ---
 
 
+**06. Elastic Google Cloud Infrastructure:Scaling and Automation**
+---
+
+**Tiempo**: 7 Horas<br>
+**Dificultad**: Intermedio<br>
+**Precio**: 20 Credits
+
+Curso Elastic Google Cloud Infrastructure:Scaling and Automation: En este curso acelerado a pedido, se presentan los servicios flexibles y completos de infraestructura y plataforma que proporciona Google Cloud. Los participantes exploran y, también, implementan elementos de las soluciones, como la interconexión segura de redes, el balanceo de cargas, el ajuste de escala automático, la automatización de la infraestructura y los servicios administrados.
+
+**Contenido**
+
+1. Course Introduction.<br>
+2. Interconnecting Networks.<br>
+3. Load Balancing and Autoscaling.<br>
+4. Infrastructure Automation.<br>
+5. Managed Services.<br>
+6. Course Resources.<br>
+
+**Lab**
+
+Cómo configurar la VPN con alta disponibilidad de Google Cloud.<br>5
+Cómo configurar un balanceador de cargas de aplicaciones con escalado automático.<br>5
+Configura un balanceador de cargas de red interno.<br>5
+Cómo automatizar la implementación de infraestructura con Terraform.<br>5
+
+
+---
+
+
 **18. Cloud Architecture: Design, Implement, and Manage**
 ---
 
