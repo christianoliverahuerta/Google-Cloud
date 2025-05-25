@@ -221,7 +221,7 @@ Implementa clústeres de GKE Autopilot desde Cloud Shell.<br>
 
 **Tiempo**: 8 Horas<br>
 **Dificultad**: Introductorio<br>
-**Precio**: 20 Credits
+**Precio**: 10 Credits
 
 Curso Developing Applications with Cloud Run on Google Cloud: Fundamentals: En este curso introductorio a Cloud Run plataforma de tipo serverless para correr aplicaciones. En este curso aprenderás acerca de los fundamentos de Cloud Run, el ciclo de vida de contenedores y su modelo de recursos, tu aprenderás acerca de los servicios de entidades, como servicio de controlde acceso y como desarrollar y probar tus aplicaciones localmenete dentes de realizar el desarrollo de estos en Cloud Run. 
 
