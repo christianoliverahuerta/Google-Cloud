@@ -167,7 +167,7 @@ Curso Reliable Google Cloud Infrastructure: Design and Process: En este curso, a
 
 **Contenido**
 
-1. Courso Introducción.<br>
+1. Curso Introducción.<br>
 2. Definición de servicios.<br>
 3. Diseño y arquitectura de microservicios.<br>
 4. Automatización de DevOps.<br>
@@ -181,10 +181,38 @@ Curso Reliable Google Cloud Infrastructure: Design and Process: En este curso, a
 
 **Lab**
 
-Cómo compilar una canalización de DevOps.<br>5
-Cómo implementar aplicaciones en Google Cloud.<br>5
-Cómo supervisar aplicaciones en Google Cloud.<br>5
+Cómo compilar una canalización de DevOps.<br>
+Cómo implementar aplicaciones en Google Cloud.<br>
+Cómo supervisar aplicaciones en Google Cloud.<br>
 
+
+---
+
+
+**08. Getting Started with Google Kubernetes Engine**
+---
+
+**Tiempo**: 8 Horas<br>
+**Dificultad**: Intermedio<br>
+**Precio**: 15 Credits
+
+Curso Getting Started with Google Kubernetes Engine: En este curso, Si te interesa Kubernetes, una capa de software ubicada entre tus aplicaciones y la infraestructura de tu hardware, estás en el lugar correcto. Google Kubernetes Engine te ofrece Kubernetes como un servicio administrado en Google Cloud. El objetivo es presentar los conceptos básicos de Google Kubernetes Engine o GKE, como se conoce comúnmente, y cómo alojar aplicaciones en contenedores y ejecutarlas en Google Cloud. El curso comienza con una introducción básica a Google Cloud, seguida de una descripción general de los contenedores y Kubernetes, la arquitectura de Kubernetes y las operaciones de esta plataforma.
+
+**Contenido**
+
+1. Introducción al curso.<br>
+2. Introducción a Google Cloud.<br>
+3. Introducción a los contenedores y Kubernetes.<br>
+4. Arquitectura de Kubernetes.<br>
+5. Operaciones de Kubernetes.<br>
+6. Resumen del curso.<br>
+
+**Lab**
+
+Cómo acceder a la consola de Google Cloud y Cloud Shell.<br>
+Cómo trabajar con Cloud Build.<br>
+Implementa clústeres de GKE Autopilot.<br>
+Implementa clústeres de GKE Autopilot desde Cloud Shell.<br>
 
 ---
 
