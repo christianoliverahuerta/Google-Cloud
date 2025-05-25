@@ -1,64 +1,23 @@
-#Task 1. Explore the default network
-Each Google Cloud project has a default network with subnets, routes, and firewall rules.
+# Challenge Lab
 
-View the subnets
-The default network has a subnet in each Google Cloud region.
 
-1. In the Cloud console, in the *Navigation menu* (Navigation menu icon), click *VPC network* > *VPC networks*.
+### [GSP101]
 
-2. Click *default*.
+![](https://cdn.qwiklabs.com/GMOHykaqmlTHiqEeQXTySaMXYPHeIvaqa2qHEzw6Occ%3D)
 
-3. Click *Subnets*.
+---
 
-Notice the default network with its subnets.
-Each subnet is associated with a Google Cloud region and a private RFC 1918 CIDR block for its internal IP addresses range and a gateway.
+Time: 1 hour 15 minutes<br>
+Difficulty: Advanced<br>
+Price: 7 Credits
 
-View the routes
-Routes tell VM instances and the VPC network how to send traffic from an instance to a destination, either inside the network or outside Google Cloud. Each VPC network comes with some default routes to route traffic among its subnets and send traffic from eligible instances to the internet.
+Quest: [Cloud Architecture: Design, Implement, and Manage]<br>
 
-In the left pane, click Routes.
+Last updated: May 10, 2024
 
-In Effective Routes click Network, and then select default.
+---
 
-Click Region and select the Lab Region assigned to you by Qwiklabs.
+## Challenge scenario
 
-Click View.
+Your company is ready to launch a brand new product! Because you are entering a totally new space, you have decided to deploy a new website as part of the product launch. The new site is complete, but the person who built the new site left the company before they could deploy it.
 
-Notice that there is a route for each subnet.
-These routes are managed for you, but you can create custom static routes to direct some packets to specific destinations. For example, you can create a route that sends all outbound traffic to an instance configured as a NAT gateway.
-
-View the Firewall rules
-Each VPC network implements a distributed virtual firewall that you can configure. Firewall rules allow you to control which packets are allowed to travel to which destinations. Every VPC network has two implied firewall rules that block all incoming connections and allow all outgoing connections.
-
-In the left pane, click Firewall.
-Notice that there are 4 Ingress firewall rules for the default network:
-default-allow-icmp
-default-allow-rdp
-default-allow-ssh
-default-allow-internal
-Note: These firewall rules allow ICMP, RDP, and SSH ingress traffic from anywhere (0.0.0.0/0) and all TCP, UDP, and ICMP traffic within the network (10.128.0.0/9). The Targets, Filters, Protocols/ports, and Action columns explain these rules.
-Delete the Firewall rules
-Select all of the default network firewall rules.
-Click Delete.
-Click Delete to confirm the deletion of the firewall rules.
-Delete the default network
-In the Cloud console, in the Navigation menu (Navigation menu icon), click VPC network > VPC networks.
-Select the default network.
-Click Delete VPC network.
-Click Delete to confirm the deletion of the default network.
-Wait for the network to be deleted before continuing.
-In the left pane, click Routes.
-Notice that there are no routes.
-In the left pane, click Firewall.
-Notice that there are no firewall rules.
-Note: Without a VPC network, there are no routes and no firewall rules!
-Try to create a VM instance
-Verify that you cannot create a VM instance without a VPC network.
-
-In the Navigation menu (Navigation menu icon), click Compute Engine > VM instances.
-Click Create instance.
-Accept the default values and click Create. An error is shown on the Networking tab.
-Click Go to Issues.
-In Network Interfaces, notice the no more networks and no network available errors.
-Click Cancel.
-Note: As expected, you cannot create a VM instance without a VPC network!
