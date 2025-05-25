@@ -39,7 +39,7 @@ En este lab, aprenderás a realizar las siguientes tareas:
 ## Tarea 1. Explora la red predeterminada
 Cada proyecto de Google Cloud tiene una red **predeterminada** con subredes, rutas y reglas de firewall.
 
-**Visualiza las subredes**
+### Visualiza las subredes
 
 La red predeterminada tiene una subred en cada región de Google Cloud.
 
@@ -53,7 +53,7 @@ Observa la red **predeterminada** con sus subredes.<br>
 Cada subred está asociada con una región de Google Cloud y un bloque privado de CIDR conforme a RFC 1918 para su rango de direcciones IP internas y una puerta de enlace.
 
 
-**Visualiza las rutas**
+### Visualiza las rutas
 
 Las rutas informan a las instancias de VM y la red de VPC cómo enviar tráfico desde una instancia a un destino, dentro de la red o fuera de Google Cloud. Cada red de VPC incluye algunas rutas predeterminadas para enrutar el tráfico entre sus subredes y enviar tráfico desde instancias aptas a Internet.
 
@@ -69,15 +69,15 @@ Observa que hay una ruta para cada subred.<br>
 Estas rutas las administras tú, pero puedes crear rutas estáticas personalizadas para dirigir algunos paquetes a destinos específicos. Por ejemplo, puedes crear una ruta que envíe todo el tráfico saliente a una instancia configurada como una puerta de enlace NAT.
 
 
-**Visualiza las reglas de firewall**
+### Visualiza las reglas de firewall
 
 Cada red de VPC implementa un firewall virtual distribuido que puedes configurar. Con las reglas de firewall, puedes controlar qué paquetes tienen permitido trasladarse a qué destinos. Cada red de VPC tiene dos reglas de firewall implícitas que bloquean todas las conexiones entrantes y permiten todas las conexiones salientes.
 
 1. En el panel izquierdo, haz clic en **Firewall**.<br>
 Observa que hay 4 reglas de firewall de **entrada** para la red **predeterminada**:
 
-  a) default-allow-icmp<br>
-  b) default-allow-rdp<br>
-  c) default-allow-ssh<br>
-  e) default-allow-internal<br>
+-  default-allow-icmp<br>
+-  default-allow-rdp<br>
+-  default-allow-ssh<br>
+-  default-allow-internal<br>
 
