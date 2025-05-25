@@ -247,7 +247,7 @@ Using Cloud PubSub with Cloud Run [APPRUN].<br>
 
 **Tiempo**: 5 Horas 45 minutos<br>
 **Dificultad**: Introductorio<br>
-**Precio**: 10 Credits
+**Precio**: 25 Credits
 
 Curso Logging and Monitoring in Google Cloud: En este curso, se enseñan a los participantes técnicas para supervisar y mejorar el rendimiento de la infraestructura y las aplicaciones en Google Cloud. Los asistentes adquieren experiencia para supervisar la pila completa, administrar y analizar registros en tiempo real, depurar código en producción, hacer un seguimiento de los cuellos de botella en el rendimiento de las aplicaciones y crear perfiles de uso de CPU y memoria. 
 
@@ -268,6 +268,36 @@ Alertas en Google Cloud.<br>
 Service Monitoring.<br>
 Análisis de registros en Google Cloud.<br>
 Registros de auditoría de Cloud.<br>
+
+---
+
+
+**11. Observability in Google Cloud**
+---
+
+**Tiempo**: 4 Horas 30 minutos<br>
+**Dificultad**: Introductorio<br>
+**Precio**: 10 Credits
+
+Curso Logging and Monitoring in Google Cloud: En este curso, se enseñan a los participantes técnicas para supervisar y mejorar el rendimiento de la infraestructura y las aplicaciones en Google Cloud. Los asistentes adquieren experiencia para supervisar la pila completa, administrar y analizar registros en tiempo real, depurar código en producción, hacer un seguimiento de los cuellos de botella en el rendimiento de las aplicaciones y crear perfiles de uso de CPU y memoria. 
+
+
+**Contenido**
+
+1. Introducción.<br>
+2. Configuring Google Cloud Services for Observability.<br>
+3. Monitoring Google Cloud Network.<br>
+4. Investigating Application Performance Issues.<br>
+5. Optimizing the Costs for Google Cloud Observability.<br>
+6. Course Summary.<br>
+7. Course Resources.<br>
+
+**Lab**
+
+Supervisa una instancia de Compute Engine con el Agente de operaciones.<br>
+Analiza el tráfico de red con registros de flujo de VPC.<br>
+Revisa la latencia de aplicaciones con Cloud Trace.<br>
+
 
 ---
 
