@@ -176,7 +176,7 @@ Cuando se vuelve a iniciar una instancia detenida, se le asigna una nueva direcc
 
 Explora la conectividad de las instancias de VM. Específicamente, trata de acceder con SSH a tus instancias de VM mediante tcp:22 y haz ping a las direcciones IP internas y externas de tus instancias de VM con ICMP. Luego, explora los efectos de las reglas de firewall en la conectividad. Para ello, quita las reglas individualmente.
 
-# Verifica la conectividad de las instancias de VM
+### Verifica la conectividad de las instancias de VM
 Las reglas de firewall que creaste con **mynetwork** permiten el tráfico de entrada ICMP y SSH desde dentro de **mynetwork** (IP interna) y fuera de esa red (IP externa).
 
 1. En el **menú de navegación** (Ícono del menú de navegación), haz clic en **Compute Engine > Instancias de VM**. Observa las direcciones IP internas y externas de **mynet-r2-vm**.
@@ -189,3 +189,27 @@ Las reglas de firewall que creaste con **mynetwork** permiten el tráfico de ent
 - Si tu cuenta está configurada para usar Acceso al SO, Compute Engine almacenará la clave generada con tu cuenta de usuario.
 
 De manera alternativa, puedes controlar el acceso a instancias de Linux creando claves SSH y editando los metadatos públicos de claves SSH.
+
+
+4. Para probar la conectividad con la IP interna de mynet-r2-vm, ejecuta el siguiente comando, en el cual deberás ingresar la IP interna de mynet-r2-vm:
+
+**ping -c 3 <Enter mynet-r2-vm's internal IP here>**
+
+Puedes hacer ping a la IP interna de **mynet-r2-vm** debido a la regla de firewall **allow-custom**.
+
+5. Para probar la conectividad con la IP externa de **mynet-r2-vm**, ejecuta el siguiente comando, en el cual deberás ingresar la IP externa de **mynet-r2-vm**:
+
+**ping -c 3 <Enter mynet-r2-vm's external IP here>**
+
+**Nota:** Puedes acceder con SSH a **mynet-us-vm** y hacer ping a las direcciones IP interna y externa de **mynet-r2-vm** como se esperaba. Otra alternativa es acceder con SSH a **mynet-r2-vm** y hacer ping a las direcciones IP internas y externas de mynet-us-vm, lo cual también funciona.
+
+### Quita las reglas de firewall allow-icmp
+
+Quita la regla de firewall **allow-icmp** y, luego, intenta hacer ping a las direcciones IP interna y externa de **mynet-r2-vm**.
+
+1. En el **menú de navegación** (Ícono del menú de navegación), haz clic en **Red de VPC > Firewall**.
+2. Selecciona la regla **mynetwork-allow-icmp**.
+3. Haz clic en **Borrar**.
+4. Haz clic en **Borrar** para confirmar esta acción. Espera hasta que se borre la regla de firewall.
+5. Regresa a la terminal SSH de **mynet-us-vm**.
+6. Para probar la conectividad con la IP interna de **mynet-r2-vm**, ejecuta el siguiente comando, en el cual deberás ingresar la IP interna de **mynet-r2-vm**:
