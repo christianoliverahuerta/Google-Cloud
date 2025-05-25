@@ -242,6 +242,35 @@ Using Cloud PubSub with Cloud Run [APPRUN].<br>
 ---
 
 
+**10. Logging and Monitoring in Google Cloud**
+---
+
+**Tiempo**: 5 Horas 45 minutos<br>
+**Dificultad**: Introductorio<br>
+**Precio**: 10 Credits
+
+Curso Logging and Monitoring in Google Cloud: En este curso, se enseñan a los participantes técnicas para supervisar y mejorar el rendimiento de la infraestructura y las aplicaciones en Google Cloud. Los asistentes adquieren experiencia para supervisar la pila completa, administrar y analizar registros en tiempo real, depurar código en producción, hacer un seguimiento de los cuellos de botella en el rendimiento de las aplicaciones y crear perfiles de uso de CPU y memoria. 
+
+
+**Contenido**
+
+1. Introducción.<br>
+2. Introducción a GC's operations suite.<br>
+3. Supervisión de sistemas fundamentales.<br>
+4. Registros y análisis avanzados.<br>
+5. Trabaja con registros de auditoría.<br>
+6. Resumen del curso.<br>
+
+**Lab**
+
+Supervisión y creación de paneles de varios proyectos.<br>
+Alertas en Google Cloud.<br>
+Service Monitoring.<br>
+Análisis de registros en Google Cloud.<br>
+Registros de auditoría de Cloud.<br>
+
+---
+
 **18. Cloud Architecture: Design, Implement, and Manage**
 ---
 
