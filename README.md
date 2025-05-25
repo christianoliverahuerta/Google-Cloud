@@ -61,8 +61,8 @@ Curso Google Cloud Fundamentals: Core Infrastructure: En este curso se presentan
 
 **Lab**
 
-Google Cloud Fundamentals: Getting Started with Cloud Marketplace.<br>
-Getting Started with VPC Networking and Google Compute Engine.<br>
+[Google Cloud Fundamentals: Getting Started with Cloud Marketplace.](https://github.com/christianoliverahuerta/Google-Cloud/blob/main/Google%20Cloud%20Fundamentals%20Getting%20Started%20with%20Cloud%20Marketplace.md)<br>
+[Getting Started with VPC Networking and Google Compute Engine.](https://github.com/christianoliverahuerta/Google-Cloud/blob/main/Getting%20Startted%20with%20VPC%20Networking%20and%20Google%20Compute%20Engine.md)<br>
 Google Cloud Fundamentals: Getting Started with Cloud Storage and Cloud SQL.<br>
 Hello Cloud Run.<br>
 
