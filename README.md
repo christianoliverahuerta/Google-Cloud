@@ -98,6 +98,35 @@ Cómo trabajar con máquinas virtuales.<br>
 ---
 
 
+**05. Essential Google Cloud Infrastructure: Core Services**
+---
+
+**Tiempo**: 8 Horas 15 minutos<br>
+**Dificultad**: Intermedio<br>
+**Precio**: 25 Credits
+
+Curso Essential Google Cloud Infrastructure: Core Services: En este curso acelerado a pedido, se presentan los servicios flexibles y completos de infraestructura y plataforma que proporciona Google Cloud, con un enfoque en Compute Engine. Los participantes pueden explorar y, también, implementar elementos de soluciones, incluidos componentes de infraestructura, como redes, sistemas y servicios de aplicaciones. En este curso, también se aborda la implementación de soluciones prácticas, incluidas las claves de encriptación proporcionadas por el cliente, la administración de seguridad y accesos, las cuotas y la facturación, y la supervisión de recursos.
+
+**Contenido**
+
+1. Course Introduction.<br>
+2. Identity and Access Management (IAM).<br>
+3. Storage and Database Services.<br>
+4. Resource Monitoring.<br>
+5. Course Resources.<br>
+
+**Lab**
+
+Explora IAM.<br>
+Cloud Storage.<br>
+Cómo implementar Cloud SQL.<br>
+Cómo examinar los datos de facturación con BigQuery.<br>
+Supervisión de recursos.<br>
+
+
+---
+
+
 **18. Cloud Architecture: Design, Implement, and Manage**
 ---
 
