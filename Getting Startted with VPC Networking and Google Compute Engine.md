@@ -11,7 +11,7 @@ Tiempo: 40 minutos<br>
 Dificultad: Introductorio<br>
 Precio: 5 créditos
 
-Quest: [Google Cloud Fundamentals: Core Infrastructure]<br>
+Curso: [Google Cloud Fundamentals: Core Infrastructure]<br>
 
 Last updated: 2022  
 
