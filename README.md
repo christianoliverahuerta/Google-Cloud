@@ -156,6 +156,39 @@ Cómo automatizar la implementación de infraestructura con Terraform.<br>
 ---
 
 
+**07. Reliable Google Cloud Infrastructure: Design and Process**
+---
+
+**Tiempo**: 16 Horas<br>
+**Dificultad**: Avanzado<br>
+**Precio**: 15 Credits
+
+Curso Reliable Google Cloud Infrastructure: Design and Process: En este curso, aprenderán a crear soluciones altamente confiables y eficientes en Google Cloud usando patrones de diseño comprobados. Es la continuación de los cursos Architecting with Google Compute Engine o Architecting with Google Kubernetes Engine. Se presupone que los equipos tienen experiencia práctica con las tecnologías que se abordan en cualquiera de esos cursos. Los participantes aprenderán a definir y equilibrar los requisitos comerciales y técnicos para diseñar implementaciones de Google Cloud altamente confiables y disponibles, así como seguras y rentables.
+
+**Contenido**
+
+1. Courso Introducción.<br>
+2. Definición de servicios.<br>
+3. Diseño y arquitectura de microservicios.<br>
+4. Automatización de DevOps.<br>
+5. Elige soluciones de almacenamiento.<br>
+6. Google Cloud y la arquitectura de redes híbridas.<br>
+7. Implementa aplicaciones en Google Cloud.<br>
+8. Diseña sistemas confiables.<br>
+9. Seguridad.<br>
+10. Mantenimiento y supervisión.<br>
+11. Recursos del curso.<br>
+
+**Lab**
+
+Cómo compilar una canalización de DevOps.<br>5
+Cómo implementar aplicaciones en Google Cloud.<br>5
+Cómo supervisar aplicaciones en Google Cloud.<br>5
+
+
+---
+
+
 **18. Cloud Architecture: Design, Implement, and Manage**
 ---
 
