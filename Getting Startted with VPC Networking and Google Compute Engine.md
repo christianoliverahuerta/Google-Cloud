@@ -120,13 +120,13 @@ Crea una red de VPC para que puedas crear instancias de VM.
 
 Crea una red de modo automático para replicar la red predeterminada.
 
-1. En el menú de navegación (Ícono del menú de navegación), haz clic en Red de VPC > Redes de VPC.
-2. Haz clic en Crear red de VPC.
-3. En Nombre, escribe mynetwork.
-4. En Modo de creación de subred, haz clic en Automático. Las redes de modo automático crean subredes en cada región automáticamente.
-5. En Reglas de firewall, selecciona todas las reglas disponibles. Estas son las mismas reglas de firewall estándar que tenía la red predeterminada. También se muestran las reglas deny-all-ingress y allow-all-egress, pero no puedes marcarlas ni desmarcarlas porque están implícitas. Estas dos reglas tienen una prioridad más baja (números enteros más altos indican prioridades más bajas), de modo que permiten que se consideren primero las reglas personalizadas, y de SSH, ICMP y RDP.
-6. Haz clic en Crear. Cuando esté lista la red nueva, observa que se creó una subred para cada región.
-7. Explora el rango de direcciones IP de las subredes en Region 1 y Region 2.
+1. En el **menú de navegación** (Ícono del menú de navegación), haz clic en **Red de VPC > Redes de VPC**.
+2. Haz clic en **Crear red de VPC**.
+3. En **Nombre**, escribe **mynetwork**.
+4. En **Modo de creación de subred**, haz clic en **Automático**. Las redes de modo automático crean subredes en cada región automáticamente.
+5. En **Reglas de firewall**, selecciona todas las reglas disponibles. Estas son las mismas reglas de firewall estándar que tenía la red predeterminada. También se muestran las reglas **deny-all-ingress y allow-all-egress**, pero no puedes marcarlas ni desmarcarlas porque están implícitas. Estas dos reglas tienen una prioridad más baja (números enteros más altos indican **prioridades** más bajas), de modo que permiten que se consideren primero las reglas personalizadas, y de SSH, ICMP y RDP.
+6. Haz clic en **Crear**. Cuando esté lista la red nueva, observa que se creó una subred para cada región.
+7. Explora el rango de direcciones IP de las subredes en **Region 1 y Region 2**.
 
 **Nota:** Si alguna vez borras la red predeterminada, puedes volver a crearla rápidamente. Para ello, deberás crear una red de modo automático como lo acabas de hacer. Después de volver a crear la red, allow-internal cambiará a la regla de firewall allow-custom.
 
