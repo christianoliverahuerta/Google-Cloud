@@ -81,3 +81,20 @@ Observa que hay 4 reglas de firewall de **entrada** para la red **predeterminada
 -  default-allow-ssh<br>
 -  default-allow-internal<br>
 
+**Nota:** Estas reglas de firewall permiten el tráfico de entrada **ICMP, RDP y SSH** desde cualquier parte (0.0.0.0/0), y todo el tráfico **TCP, UDP e ICMP** dentro de la red (10.128.0.0/9). En las columnas **Destinos, Filtros, Protocolos/puertos y Acción** se explican estas reglas.
+
+### Borra las reglas de firewall
+
+1. Selecciona todas las reglas de firewall de red predeterminadas.
+2. Haz clic en **Borrar**.
+3. Haz clic en **Borrar** para confirmar la eliminación de las reglas de firewall.
+
+### Borra la red predeterminada
+
+1. En el **menú de navegación** (Ícono del menú de navegación) de la consola de Cloud, haz clic en **Red de VPC > Redes de VPC**.
+2. Selecciona la red **predeterminada**.
+3. Haz clic en **Borrar la red de VPC**.
+4. Haz clic en **Borrar** para confirmar la eliminación de la red **predeterminada**. Espera a que se borre la red antes de continuar.
+5. En el panel izquierdo, haz clic en **Rutas**. Observa que no hay rutas.
+6. En el panel izquierdo, haz clic en **Firewall**. Observa que no hay reglas de firewall.
+
