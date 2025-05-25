@@ -185,7 +185,6 @@ Cómo compilar una canalización de DevOps.<br>
 Cómo implementar aplicaciones en Google Cloud.<br>
 Cómo supervisar aplicaciones en Google Cloud.<br>
 
-
 ---
 
 
@@ -194,7 +193,7 @@ Cómo supervisar aplicaciones en Google Cloud.<br>
 
 **Tiempo**: 8 Horas<br>
 **Dificultad**: Intermedio<br>
-**Precio**: 15 Credits
+**Precio**: 20 Credits
 
 Curso Getting Started with Google Kubernetes Engine: En este curso, Si te interesa Kubernetes, una capa de software ubicada entre tus aplicaciones y la infraestructura de tu hardware, estás en el lugar correcto. Google Kubernetes Engine te ofrece Kubernetes como un servicio administrado en Google Cloud. El objetivo es presentar los conceptos básicos de Google Kubernetes Engine o GKE, como se conoce comúnmente, y cómo alojar aplicaciones en contenedores y ejecutarlas en Google Cloud. El curso comienza con una introducción básica a Google Cloud, seguida de una descripción general de los contenedores y Kubernetes, la arquitectura de Kubernetes y las operaciones de esta plataforma.
 
@@ -213,6 +212,32 @@ Cómo acceder a la consola de Google Cloud y Cloud Shell.<br>
 Cómo trabajar con Cloud Build.<br>
 Implementa clústeres de GKE Autopilot.<br>
 Implementa clústeres de GKE Autopilot desde Cloud Shell.<br>
+
+---
+
+
+**09. Developing Applications with Cloud Run on Google Cloud: Fundamentals**
+---
+
+**Tiempo**: 8 Horas<br>
+**Dificultad**: Introductorio<br>
+**Precio**: 20 Credits
+
+Curso Developing Applications with Cloud Run on Google Cloud: Fundamentals: En este curso introductorio a Cloud Run plataforma de tipo serverless para correr aplicaciones. En este curso aprenderás acerca de los fundamentos de Cloud Run, el ciclo de vida de contenedores y su modelo de recursos, tu aprenderás acerca de los servicios de entidades, como servicio de controlde acceso y como desarrollar y probar tus aplicaciones localmenete dentes de realizar el desarrollo de estos en Cloud Run. 
+
+**Contenido**
+
+1. Course Introduction.<br>
+2. Fundamentals of Cloud Run.<br>
+3. Service Identity and Authentication.<br>
+4. Application Development, Testing, and Integration.<br>
+5. Course Review.<br>
+
+**Lab**
+
+Implementing Least Privilege IAM Policy Bindings in Cloud Run [APPRUN].<br>
+Using Cloud PubSub with Cloud Run [APPRUN].<br>
+
 
 ---
 
