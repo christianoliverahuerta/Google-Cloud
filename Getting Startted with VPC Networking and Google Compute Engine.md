@@ -7,9 +7,9 @@
 
 ---
 
-Time: 40 minutes<br>
-Difficulty: INtroductory<br>
-Price: 5 Credits
+Tiempo: 40 minutos<br>
+Dificultad: Introductorio<br>
+Precio: 5 créditos
 
 Quest: [Google Cloud Fundamentals: Core Infrastructure]<br>
 
