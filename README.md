@@ -22,7 +22,7 @@ GSP282:
 
 **Tiempo**: 8 Horas<br>
 **Dificultad**: Avanzado<br>
-**Precio**: 
+**Precio**: No cost
 
 Curso Preparing for Your Professional Cloud Architect Journey: Este curso ayuda a crear un plan de estudios para el examen de certificación de PCA (Professional Cloud Architect). Los alumnos conocerán la amplitud y el alcance de los dominios que se incluyen en el examen. Además, evaluarán su nivel de preparación para el examen y crearán un plan de estudio personal.
 
@@ -44,7 +44,7 @@ Curso Preparing for Your Professional Cloud Architect Journey: Este curso ayuda 
 
 **Tiempo**: 5 Horas<br>
 **Dificultad**: Introductorio<br>
-**Precio**: 20 Cedits
+**Precio**: 20 Credits
 
 Curso Google Cloud Fundamentals: Core Infrastructure: En este curso se presentan y comparan muchos de los servicios de procesamiento y almacenamiento de Google Cloud, junto con importantes recursos y herramientas de administración de políticas. Este curso ayuda a crear un plan de estudios para el examen de certificación de PCA (Professional Cloud Architect). Los alumnos conocerán la amplitud y el alcance de los dominios que se incluyen en el examen. Además, evaluarán su nivel de preparación para el examen y crearán un plan de estudio personal.
 
