@@ -69,6 +69,35 @@ Hello Cloud Run.<br>
 ---
 
 
+**04. Essential Google Cloud Infrastructure: Foundation**
+---
+
+**Tiempo**: 6 Horas 45 minutos<br>
+**Dificultad**: Intermedio<br>
+**Precio**: 30 Credits
+
+Curso Essential Google Cloud Infrastructure: Foundation: En este curso acelerado on demand, se presentan los servicios flexibles y completos de infraestructura y plataforma que proporciona Google Cloud, con un enfoque en Compute Engine. Los participantes pueden explorar y, también, implementar elementos de soluciones, incluidos componentes de infraestructura, como redes, máquinas virtuales y servicios de aplicaciones. Aprenderás a usar Google Cloud mediante la consola y Cloud Shell. También te familiarizarás con la función de un arquitecto de nube, enfoques para el diseño de la infraestructura y la configuración de redes virtuales con una nube privada virtual (VPC), proyectos, redes, subredes, direcciones IP, rutas y reglas de firewall.
+
+**Contenido**
+
+1. Course Introduction.<br>
+2. Interacting with Google Cloud.<br>
+3. Virtual Networks.<br>
+4. Virtual Machines.<br>
+5. Course Resources.<br>
+
+**Lab**
+
+Cómo trabajar con la consola de Google Cloud y Cloud Shell.<br>
+Vista previa de la infraestructura.<br>
+Redes de VPC.<br>
+Implementa el Acceso privado a Google y Cloud NAT.<br>
+Cómo crear máquinas virtuales.<br>
+Cómo trabajar con máquinas virtuales.<br>
+
+---
+
+
 **18. Cloud Architecture: Design, Implement, and Manage**
 ---
 
