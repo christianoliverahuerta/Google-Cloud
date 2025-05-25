@@ -131,3 +131,61 @@ Crea una red de modo automático para replicar la red predeterminada.
 **Nota:** Si alguna vez borras la red predeterminada, puedes volver a crearla rápidamente. Para ello, deberás crear una red de modo automático como lo acabas de hacer. Después de volver a crear la red, allow-internal cambiará a la regla de firewall allow-custom.
 
 
+### Crea una instancia de VM en Region
+
+Crea una instancia de VM en la región Region. Seleccionar una región y una zona determina la subred y asigna la dirección IP interna del rango de direcciones IP de la subred.
+
+1. En el **menú de navegación** (Ícono del menú de navegación), haz clic en **Compute Engine > Instancias de VM**.
+2. Haz clic en **Crear instancia**.
+3. Especifica lo siguiente:
+
+| Propiedad  | Valor | 
+|---|---|
+| Nombre | mynet-us-vm | 
+| Región | Region 1 |
+| Zona | Zone 1  |
+
+4. En **Serie**, selecciona **E2**.
+5. En **Tipo de máquina**, selecciona **e2-micro (2 CPU virtuales, 1 GB de memoria).**
+6. Haz clic en **Crear**.
+
+
+### Crea una instancia de VM en Region 2
+
+Crea una instancia de VM en la región Region 2.
+
+1. Haz clic en Crear instancia.
+2. Especifica lo siguiente y deja los parámetros de configuración restantes con sus valores predeterminados:
+
+| Propiedad  | Valor | 
+|---|---|
+| Nombre | mynet-r2-vm | 
+| Región | Region 2 |
+| Zona | Zone 2  |
+
+3. En **Serie**, selecciona **E2**.
+4. En **Tipo de máquina**, selecciona **e2-micro (2 CPU virtuales, 1 GB de memoria)**.
+5. Haz clic en **Crear**.
+
+**Nota:** Las **direcciones IP externas** de ambas instancias de VM son efímeras. Si se detiene una instancia, las direcciones IP externas efímeras asignadas a la instancia se devuelven al grupo general de Compute Engine y quedan disponibles para que las usen otros proyectos.
+
+Cuando se vuelve a iniciar una instancia detenida, se le asigna una nueva dirección IP externa efímera. De manera alternativa, puedes reservar una dirección IP externa estática, que asigna la dirección a tu proyecto de forma indefinida hasta que la liberes de manera explícita.
+
+
+## Tarea 3: Explora la conectividad de las instancias de VM
+
+Explora la conectividad de las instancias de VM. Específicamente, trata de acceder con SSH a tus instancias de VM mediante tcp:22 y haz ping a las direcciones IP internas y externas de tus instancias de VM con ICMP. Luego, explora los efectos de las reglas de firewall en la conectividad. Para ello, quita las reglas individualmente.
+
+# Verifica la conectividad de las instancias de VM
+Las reglas de firewall que creaste con **mynetwork** permiten el tráfico de entrada ICMP y SSH desde dentro de **mynetwork** (IP interna) y fuera de esa red (IP externa).
+
+1. En el **menú de navegación** (Ícono del menú de navegación), haz clic en **Compute Engine > Instancias de VM**. Observa las direcciones IP internas y externas de **mynet-r2-vm**.
+2. En **mynet-us-vm**, haz clic en **SSH** para iniciar una terminal y conectarte.
+3. Si aparece una ventana emergente de **autorización**, haz clic en **Autorizar**.
+
+**Nota:** Puedes establecer una conexión SSH debido a la regla de firewall allow-ssh, que permite el tráfico entrante desde cualquier parte (0.0.0.0/0) para tcp:22. La conexión SSH funciona a la perfección porque Compute Engine genera una clave SSH para ti y la almacena en una de las siguientes ubicaciones:
+
+- De forma predeterminada, Compute Engine agrega la clave generada a los metadatos del proyecto o de la instancia.
+- Si tu cuenta está configurada para usar Acceso al SO, Compute Engine almacenará la clave generada con tu cuenta de usuario.
+
+De manera alternativa, puedes controlar el acceso a instancias de Linux creando claves SSH y editando los metadatos públicos de claves SSH.
