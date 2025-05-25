@@ -147,10 +147,10 @@ Curso Elastic Google Cloud Infrastructure:Scaling and Automation: En este curso 
 
 **Lab**
 
-Cómo configurar la VPN con alta disponibilidad de Google Cloud.<br>5
-Cómo configurar un balanceador de cargas de aplicaciones con escalado automático.<br>5
-Configura un balanceador de cargas de red interno.<br>5
-Cómo automatizar la implementación de infraestructura con Terraform.<br>5
+Cómo configurar la VPN con alta disponibilidad de Google Cloud.<br>
+Cómo configurar un balanceador de cargas de aplicaciones con escalado automático.<br>
+Configura un balanceador de cargas de red interno.<br>
+Cómo automatizar la implementación de infraestructura con Terraform.<br>
 
 
 ---
