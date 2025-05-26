@@ -345,12 +345,12 @@ Curso Implement Load Balancing on Compute Engine: En este curso, configurará un
 [GSP074: Cloud Storage: Qwik Start - CLI/SDK.]<br>
 [GSP064: Cloud IAM: Qwik Start.](https://github.com/christianoliverahuerta/Google-Cloud/blob/main/GSP064.md)<br>
 [GSP089: Cloud Monitoring: Qwik Start.](https://github.com/christianoliverahuerta/Google-Cloud/blob/main/GSP089.md)<br>
-[GSP081: Cloud Run Functions: Qwik Start - Consola.]()<br>
+[GSP081: Cloud Run Functions: Qwik Start - Consola.]<br>
 [GSP080: Cloud Run Functions: Qwik Start - Línea de comandos.](https://github.com/christianoliverahuerta/Google-Cloud/blob/main/GSP080.md)<br>
-[GSP096: Pub/Sub: Qwik Start - Consola.]()<br>
+[GSP096: Pub/Sub: Qwik Start - Consola.]<br>
 [GSP095: Pub/Sub: Qwik Start - Línea de comandos](https://github.com/christianoliverahuerta/Google-Cloud/blob/main/GSP095.md)<br>
-
-
+[GSP094: Pub/Sub: Qwik Start - Python.]<br>
+[GSP315: Configura un entorno de desarrollo de apps en Google Cloud: Lab de desafío.](https://github.com/christianoliverahuerta/Google-Cloud/blob/main/GSP315.md)<br>
 
 
 ---
