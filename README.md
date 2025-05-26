@@ -298,7 +298,6 @@ Supervisa una instancia de Compute Engine con el Agente de operaciones.<br>
 Analiza el tráfico de red con registros de flujo de VPC.<br>
 Revisa la latencia de aplicaciones con Cloud Trace.<br>
 
-
 ---
 
 
@@ -307,7 +306,7 @@ Revisa la latencia de aplicaciones con Cloud Trace.<br>
 
 **Tiempo**: 3 Horas 30 minutos<br>
 **Dificultad**: Introductorio<br>
-**Precio**: 15 Credits
+**Precio**: 25 Credits
 
 Curso Implement Load Balancing on Compute Engine: En este curso, completa la insignia de habilidad introductoria Implement Load Balancing on Compute Engine y demuestra tus habilidades para realizar las siguientes actividades: escribir comandos de gcloud y usar Cloud Shell, crear e implementar máquinas virtuales en Compute Engine, y configurar balanceadores de cargas de red y HTTP. Una insignia de habilidad es una insignia digital exclusiva que emite Google Cloud en reconocimiento de tu dominio de los productos y servicios de la plataforma y que prueba tu capacidad de aplicar esos conocimientos en un entorno interactivo y práctico.
 
@@ -323,6 +322,35 @@ Curso Implement Load Balancing on Compute Engine: En este curso, completa la ins
 [GSP002: Cómo comenzar a utilizar Cloud Shell y gcloud.](https://github.com/christianoliverahuerta/Google-Cloud/blob/main/GSP002.md)<br>
 [GSP007: Configura balanceadores de cargas de red y HTTP.](https://github.com/christianoliverahuerta/Google-Cloud/blob/main/GSP007.md)<br>
 [GSP313: Implementa el balanceo de cargas en Compute Engine: Lab de desafío](https://github.com/christianoliverahuerta/Google-Cloud/blob/main/GSP313.md)<br>
+
+---
+
+
+**13. Set Up an App Dev Environment on Google Cloud**
+---
+
+**Tiempo**: 4 Horas<br>
+**Dificultad**: Introductorio<br>
+**Precio**: 15 Credits
+
+Curso Implement Load Balancing on Compute Engine: En este curso, configurará un entorno de desarrollo de apps en Google Cloud. Allí aprenderás a crear y conectar una infraestructura de nube centrada en el almacenamiento usando las capacidades básicas de las siguientes tecnologías: Cloud Storage, Identity and Access Management, Cloud Functions y Pub/Sub.
+
+**Contenido**
+
+1. Perform Foundational Infrastructure Tasks in Google Cloud.<br>
+
+**Lab**
+
+[GSP073: Cloud Storage: Qwik Start - Consola de Cloud.](https://github.com/christianoliverahuerta/Google-Cloud/blob/main/GSP073.md)<br>
+[GSP074: Cloud Storage: Qwik Start - CLI/SDK.]<br>
+[GSP064: Cloud IAM: Qwik Start.](https://github.com/christianoliverahuerta/Google-Cloud/blob/main/GSP064.md)<br>
+[GSP089: Cloud Monitoring: Qwik Start.](https://github.com/christianoliverahuerta/Google-Cloud/blob/main/GSP089.md)<br>
+[GSP081: Cloud Run Functions: Qwik Start - Consola.]()<br>
+[GSP080: Cloud Run Functions: Qwik Start - Línea de comandos.](https://github.com/christianoliverahuerta/Google-Cloud/blob/main/GSP080.md)<br>
+[GSP096: Pub/Sub: Qwik Start - Consola.]()<br>
+[GSP095: Pub/Sub: Qwik Start - Línea de comandos](https://github.com/christianoliverahuerta/Google-Cloud/blob/main/GSP095.md)<br>
+
+
 
 
 ---
