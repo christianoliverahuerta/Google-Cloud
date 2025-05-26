@@ -301,6 +301,33 @@ Revisa la latencia de aplicaciones con Cloud Trace.<br>
 
 ---
 
+
+**12. Implement Load Balancing on Compute Engine**
+---
+
+**Tiempo**: 3 Horas 30 minutos<br>
+**Dificultad**: Introductorio<br>
+**Precio**: 15 Credits
+
+Curso Implement Load Balancing on Compute Engine: En este curso, completa la insignia de habilidad introductoria Implement Load Balancing on Compute Engine y demuestra tus habilidades para realizar las siguientes actividades: escribir comandos de gcloud y usar Cloud Shell, crear e implementar máquinas virtuales en Compute Engine, y configurar balanceadores de cargas de red y HTTP. Una insignia de habilidad es una insignia digital exclusiva que emite Google Cloud en reconocimiento de tu dominio de los productos y servicios de la plataforma y que prueba tu capacidad de aplicar esos conocimientos en un entorno interactivo y práctico.
+
+
+**Contenido**
+
+1. Implement Load Balancing on Compute Engine.<br>
+
+**Lab**
+
+[GSP001: Cómo crear una máquina virtual.](https://github.com/christianoliverahuerta/Google-Cloud/blob/main/GSP001.md)<br>
+[GSP093: Compute Engine: Qwik Start - Windows.](https://github.com/christianoliverahuerta/Google-Cloud/blob/main/GSP093.md)<br>
+[GSP002: Cómo comenzar a utilizar Cloud Shell y gcloud.](https://github.com/christianoliverahuerta/Google-Cloud/blob/main/GSP002.md)<br>
+.<br>
+.<br>
+
+
+---
+
+
 **18. Cloud Architecture: Design, Implement, and Manage**
 ---
 
