@@ -322,7 +322,7 @@ Curso Implement Load Balancing on Compute Engine: En este curso, completa la ins
 [GSP093: Compute Engine: Qwik Start - Windows.](https://github.com/christianoliverahuerta/Google-Cloud/blob/main/GSP093.md)<br>
 [GSP002: Cómo comenzar a utilizar Cloud Shell y gcloud.](https://github.com/christianoliverahuerta/Google-Cloud/blob/main/GSP002.md)<br>
 [GSP007: Configura balanceadores de cargas de red y HTTP.](https://github.com/christianoliverahuerta/Google-Cloud/blob/main/GSP007.md)<br>
-.<br>
+[GSP313: Implementa el balanceo de cargas en Compute Engine: Lab de desafío](https://github.com/christianoliverahuerta/Google-Cloud/blob/main/GSP313.md)<br>
 
 
 ---
