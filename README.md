@@ -277,7 +277,7 @@ Registros de auditoría de Cloud.<br>
 
 **Tiempo**: 4 Horas 30 minutos<br>
 **Dificultad**: Introductorio<br>
-**Precio**: 10 Credits
+**Precio**: 15 Credits
 
 Curso Logging and Monitoring in Google Cloud: En este curso, se enseñan a los participantes técnicas para supervisar y mejorar el rendimiento de la infraestructura y las aplicaciones en Google Cloud. Los asistentes adquieren experiencia para supervisar la pila completa, administrar y analizar registros en tiempo real, depurar código en producción, hacer un seguimiento de los cuellos de botella en el rendimiento de las aplicaciones y crear perfiles de uso de CPU y memoria. 
 
